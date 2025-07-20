@@ -1,0 +1,7 @@
+flask
+openai
+python-dotenv
+streamlit
+flake8
+black
+radon
